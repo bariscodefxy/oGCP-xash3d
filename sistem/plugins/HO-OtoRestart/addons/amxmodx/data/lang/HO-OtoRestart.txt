@@ -1,0 +1,7 @@
+[tr]
+AUTO_RESTART = [HepOyuncu.Com] Restart Atilmasina '%d' Saniye Kaldi.
+GAME_STARTED = [HepOyuncu.Com] Restart Atildi, Iyi Oyunlar
+
+[en]
+AUTO_RESTART = [HepOyuncu.Com] Restart Atilmasina '%d' Saniye Kaldi.
+GAME_STARTED = [HepOyuncu.Com] Restart Atildi, Iyi Oyunlar

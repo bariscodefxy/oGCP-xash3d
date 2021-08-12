@@ -1,0 +1,10 @@
+RewriteEngine On
+Options +FollowSymLinks
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)/(.*) index.php?Page=$1&$2 [L,NC]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*) index.php?Page=$1 [L,NC]

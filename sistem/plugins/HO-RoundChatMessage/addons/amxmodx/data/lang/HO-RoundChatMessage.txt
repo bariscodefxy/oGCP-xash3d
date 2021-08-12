@@ -1,0 +1,35 @@
+[en]
+RND_MSG = !g[HepOyuncu.Com - IP: %s] !yTur: !t%d !y- Harita: !t%s !y| Oyuncular: !g%d!y/!g%d !y!
+
+[ro]
+RND_MSG = !g[HepOyuncu.Com - IP: %s] !yTur: !t%d !y- Harita: !t%s !y| Oyuncular: !g%d!y/!g%d !y!
+
+[es]
+RND_MSG = !g[HepOyuncu.Com - IP: %s] !yTur: !t%d !y- Harita: !t%s !y| Oyuncular: !g%d!y/!g%d !y!
+
+[de]
+RND_MSG = !g[HepOyuncu.Com - IP: %s] !yTur: !t%d !y- Harita: !t%s !y| Oyuncular: !g%d!y/!g%d !y!
+
+[pl]
+RND_MSG = !g[HepOyuncu.Com - IP: %s] !yTur: !t%d !y- Harita: !t%s !y| Oyuncular: !g%d!y/!g%d !y!
+
+[fr]
+RND_MSG = !g[HepOyuncu.Com - IP: %s] !yTur: !t%d !y- Harita: !t%s !y| Oyuncular: !g%d!y/!g%d !y!
+
+[ru]
+RND_MSG = !g[HepOyuncu.Com - IP: %s] !yTur: !t%d !y- Harita: !t%s !y| Oyuncular: !g%d!y/!g%d !y!
+
+[nl]
+RND_MSG = !g[HepOyuncu.Com - IP: %s] !yTur: !t%d !y- Harita: !t%s !y| Oyuncular: !g%d!y/!g%d !y!
+
+[bg]
+RND_MSG = !g[HepOyuncu.Com - IP: %s] !yTur: !t%d !y- Harita: !t%s !y| Oyuncular: !g%d!y/!g%d !y!
+
+[sv]
+RND_MSG = !g[HepOyuncu.Com - IP: %s] !yTur: !t%d !y- Harita: !t%s !y| Oyuncular: !g%d!y/!g%d !y!
+
+[tr]
+RND_MSG = !g[HepOyuncu.Com - IP: %s] !yTur: !t%d !y- Harita: !t%s !y| Oyuncular: !g%d!y/!g%d !y!
+
+[bp]
+RND_MSG = !g[HepOyuncu.Com - IP: %s] !yTur: !t%d !y- Harita: !t%s !y| Oyuncular: !g%d!y/!g%d !y!
